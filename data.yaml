@@ -1,0 +1,7 @@
+path: dataset
+
+train: images/train
+val: images/train      # validation ayırmadıysan train kullanabiliriz
+
+names:
+  0: water
