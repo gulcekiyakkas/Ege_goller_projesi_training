@@ -1,7 +1,8 @@
 path: dataset
 
 train: images/train
-val: images/train      # validation ayırmadıysan train kullanabiliriz
+val: images/val
+test: images/test
 
 names:
   0: water
